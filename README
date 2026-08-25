@@ -12,3 +12,24 @@ Each project focuses on applying Python and data science techniques to real-worl
 - Tools: Python 3, Pandas, NumPy  
 - Focus: Environmental monitoring and data interpretation  
 - Folder: `air_quality/`
+
+### 2. Weather API Analysis *(coming soon)*
+Retrieves and visualizes local weather data using an API connection.  
+- **Goal:** Compare temperature and humidity trends with air quality results.  
+- **Folder:** `weather_api/`
+
+### 3. Solar Suitability Study *(planned)*
+Evaluates solar potential across El Paso using geospatial data.  
+- **Goal:** Identify optimal zones for solar installations.  
+- **Folder:** `solar_suitability/`
+
+---
+
+## 🧠 Skills Demonstrated
+- Data cleaning and transformation  
+- Exploratory data analysis (EDA)  
+- Visualization and interpretation  
+- Environmental data correlation  
+- Python scripting and notebook documentation  
+
+---
