@@ -1,1 +1,48 @@
+# Data Projects — Environmental and Analytical Studies
+
+This repository collects my data analysis projects developed during my Computer Science studies and independent research.  
+Each project focuses on applying Python and data science techniques to real-world datasets, especially environmental and regional topics related to **El Paso, TX**.
+
+---
+
+## 📊 Included Projects
+
+### 1. El Paso Air Quality Analysis
+Analyzes PM2.5 concentration levels to identify pollution events and their dates.  
+- **Tools:** Python 3, Pandas, NumPy  
+- **Focus:** Environmental monitoring and data interpretation  
+- **Folder:** `air_quality/`
+
+### 2. Weather API Analysis *(coming soon)*
+Retrieves and visualizes local weather data using an API connection.  
+- **Goal:** Compare temperature and humidity trends with air quality results.  
+- **Folder:** `weather_api/`
+
+### 3. Solar Suitability Study *(planned)*
+Evaluates solar potential across El Paso using geospatial data.  
+- **Goal:** Identify optimal zones for solar installations.  
+- **Folder:** `solar_suitability/`
+
+---
+
+## 🧠 Skills Demonstrated
+- Data cleaning and transformation  
+- Exploratory data analysis (EDA)  
+- Visualization and interpretation  
+- Environmental data correlation  
+- Python scripting and notebook documentation  
+
+---
+
+## 🚀 Future Work
+- Integrate datasets from EPA and NOAA.  
+- Add visual dashboards using Matplotlib or Plotly.  
+- Expand analysis to include cross‑border air quality comparison (El Paso–Juárez).
+
+---
+
+**Author:** Laura Sabogal  
+**Institution:** University of Texas at El Paso (Pre‑Master’s Leveling Courses)  
+**Languages:** Python 3, Jupyter Notebook  
+**Last Updated:** August 2026
 
